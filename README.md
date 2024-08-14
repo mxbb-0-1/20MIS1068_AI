@@ -1,6 +1,6 @@
 # Register Number: 20MIS1068
 # Name: Anselm Sherwin W
-###AI Engineer Assessment 
+# AI Engineer Assessment 
 ## Trademark Class Prediction AI
 
 
@@ -136,4 +136,4 @@ After 5 requests from the same user, the API is returning an HTTP 429 status cod
 ![image](https://github.com/user-attachments/assets/efcb2fc9-aa7d-4c8d-bcc4-992a2b904d00)
 
 # Model Testing
-![image](https://github.com/user-attachments/assets/d955346c-0767-47d0-b702-a5f7900c21b1)
+![image](https://github.com/user-attachments/assets/678a726f-0bd8-441f-b9d0-372b859f2909)
