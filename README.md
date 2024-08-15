@@ -103,7 +103,7 @@ for epoch in range(num_epochs):
 2. **Run the Docker Container**:
    - Start the Docker container with the following command:
      ```
-     docker run -d -p 8000:8000 <your-dockerhub-repo/trademark_class_prediction>
+     docker run -d -p 8000:8000 mrblueberry43/trademark_classification_app
      ```
 
 3. **Install curl (if not already installed)**:
