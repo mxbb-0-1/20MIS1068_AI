@@ -74,7 +74,10 @@ for epoch in range(num_epochs):
 
 
 ```
+### Video Demonstration
 
+Watch the video for a step-by-step guide on how to run and test the Docker container:
+[Watch the Video](https://1drv.ms/v/s!Ass2sYOfsPPOg8wIzdJzXY2MAAHCsA?e=lfqO0f)
 
 
 ## Process
