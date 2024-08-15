@@ -97,7 +97,7 @@ for epoch in range(num_epochs):
 1. **Download the Docker Image**:
    - Pull the Docker image from Docker Hub using the following command:
      ```
-     docker pull <your-dockerhub-repo/trademark_class_prediction>
+     docker pull mrblueberry43/trademark_classification_app
      ```
 
 2. **Run the Docker Container**:
