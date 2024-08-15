@@ -77,7 +77,7 @@ for epoch in range(num_epochs):
 ### Video Demonstration
 
 Watch the video for a step-by-step guide on how to run and test the Docker container:
-[Watch the Video](https://1drv.ms/v/s!Ass2sYOfsPPOg8wIzdJzXY2MAAHCsA?e=lfqO0f)
+[Watch the Video](https://drive.google.com/file/d/11J4Yx4_2rXCS_rE_tNsVhWbbo7IEOCzN/view?usp=sharing)
 
 
 ## Process
