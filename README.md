@@ -1,7 +1,5 @@
-# Register Number: 20MIS1068
-# Name: Anselm Sherwin W
-# AI Engineer Assessment 
-## Trademark Class Prediction AI
+
+# Trademark Class Prediction AI
 
 
 
