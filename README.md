@@ -120,11 +120,7 @@ Watch the video for a step-by-step guide on how to run and test the Docker conta
      ```
    - After 5 requests from the same user, the API will return an HTTP 429 status code, indicating that the request limit has been reached.
 
-## Submission
 
-- **GitHub Repository**: The code and related files are submitted via this GitHub repository.
-- **Docker Hub Repository**: The Docker image is available on Docker Hub. You can pull the image using the command provided above.
- 
 ---
 
 ## Screenshots:
