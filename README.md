@@ -1,8 +1,10 @@
 
-# Trademark Class Prediction AI
 
 
-
+# Register Number: 20MIS1068
+# Name: Anselm Sherwin W
+# AI Engineer Assessment 
+## Trademark Class Prediction AI
 ## Objective
 
 The primary objective of this project is to create an AI model that can accurately predict trademark classes based on goods and services descriptions entered by users. The model leverages data from the USPTO ID Manual to make these predictions.
